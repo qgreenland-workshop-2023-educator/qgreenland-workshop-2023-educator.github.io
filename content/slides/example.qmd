@@ -1,0 +1,15 @@
+<!-- vim: set ft=markdown: -->
+---
+title: "Example slide deck"
+subtitle: "QGreenland Educator Workshop 2023"
+background-image: "https://live.staticflickr.com/65535/50237704122_f234834026_k.jpg"
+---
+
+## ❤️ Slide 1
+
+Hello...
+
+
+## ❤️ Slide 2
+
+...there!

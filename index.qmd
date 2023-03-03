@@ -1,0 +1,19 @@
+<!-- vim: set ft=markdown: -->
+---
+title: "QGreenland Educator Workshop 2023"
+author: "NSIDC"
+---
+
+## About
+
+_TODO_
+
+
+### Is this workshop for me?
+
+_TODO_
+
+
+### Outcomes
+
+_TODO_

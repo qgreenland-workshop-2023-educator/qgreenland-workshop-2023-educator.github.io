@@ -1,0 +1,16 @@
+<!-- vim: set ft=markdown: -->
+# Prerequisites
+
+## Code of Conduct
+
+Agree to our [Code of Conduct](/CODE_OF_CONDUCT.md)
+
+
+## Second thing
+
+_TODO_
+
+
+## Third thing
+
+_TODO_

@@ -1,0 +1,9 @@
+<!-- vim: set ft=markdown: -->
+---
+title: "Exercises"
+listing:
+  type: "table"
+  contents:
+    - "/*.qmd"
+    - "/*.md"
+---

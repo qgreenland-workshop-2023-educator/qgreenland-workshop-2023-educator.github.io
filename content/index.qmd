@@ -1,0 +1,88 @@
+<!-- vim: set ft=markdown: -->
+# Course content
+
+### Example day of content
+
+:::::: {.schedule-item .module}
+#### Daily overview
+
+::: {.module-resource .slides}
+[Slides](slides/example.qmd)
+:::
+::::::
+
+:::::: {.schedule-item .module}
+#### Example module #1
+
+::: {.module-resource .slides}
+[Slides](slides/example.qmd)
+:::
+
+::: {.module-resource .video}
+[Video](https://example.com)
+:::
+
+::: {.module-resource .exercise}
+[Exercise: Exercise title (30 minutes)](https://example.com)
+:::
+::::::
+
+::: {.schedule-item .break}
+#### ☕ Break: 30 minutes
+:::
+
+:::::: {.schedule-item .module}
+#### Example module #2
+
+::: {.module-resource .slides}
+[Slides](slides/example.qmd)
+:::
+
+::: {.module-resource .video}
+[Video](https://example.com)
+:::
+
+::: {.module-resource .exercise}
+[Exercise: Exercise title (30 minutes)](https://example.com)
+:::
+::::::
+
+::: {.schedule-item .break}
+#### 🥪 Break: 60 minutes
+:::
+
+:::::: {.schedule-item .module}
+#### Example module #3
+
+::: {.module-resource .slides}
+[Slides](slides/example.qmd)
+:::
+
+::: {.module-resource .video}
+[Video](https://example.com)
+:::
+
+::: {.module-resource .exercise}
+[Exercise: Exercise title (30 minutes)](https://example.com)
+:::
+::::::
+
+::: {.schedule-item .break}
+#### ☕ Break: 30 minutes
+:::
+
+:::::: {.schedule-item .module}
+#### Example module #4
+
+::: {.module-resource .slides}
+[Slides](slides/example.qmd)
+:::
+
+::: {.module-resource .video}
+[Video](https://example.com)
+:::
+
+::: {.module-resource .exercise}
+[Exercise: Exercise title (30 minutes)](https://example.com)
+:::
+::::::
