@@ -1,29 +1,11 @@
 <!-- vim: set ft=markdown: -->
 # Course content
 
-### Example day of content
-
 :::::: {.schedule-item .module}
-#### Daily overview
+#### Day 1 - Tuesday, June 27
 
 ::: {.module-resource .slides}
 [Slides](slides/example.qmd)
-:::
-::::::
-
-:::::: {.schedule-item .module}
-#### Example module #1
-
-::: {.module-resource .slides}
-[Slides](slides/example.qmd)
-:::
-
-::: {.module-resource .video}
-[Video](https://example.com)
-:::
-
-::: {.module-resource .exercise}
-[Exercise: Exercise title (30 minutes)](https://example.com)
 :::
 ::::::
 
@@ -32,18 +14,24 @@
 :::
 
 :::::: {.schedule-item .module}
-#### Example module #2
+Afternoon Check-in
+:::
+
+:::::: {.schedule-item .module}
+#### Day 2
 
 ::: {.module-resource .slides}
 [Slides](slides/example.qmd)
 :::
+::::::
 
-::: {.module-resource .video}
-[Video](https://example.com)
-:::
 
-::: {.module-resource .exercise}
-[Exercise: Exercise title (30 minutes)](https://example.com)
+
+:::::: {.schedule-item .module}
+#### Day 3
+
+::: {.module-resource .slides}
+[Slides](slides/example.qmd)
 :::
 ::::::
 
@@ -52,18 +40,10 @@
 :::
 
 :::::: {.schedule-item .module}
-#### Example module #3
+#### Day 4
 
 ::: {.module-resource .slides}
 [Slides](slides/example.qmd)
-:::
-
-::: {.module-resource .video}
-[Video](https://example.com)
-:::
-
-::: {.module-resource .exercise}
-[Exercise: Exercise title (30 minutes)](https://example.com)
 :::
 ::::::
 
@@ -72,17 +52,9 @@
 :::
 
 :::::: {.schedule-item .module}
-#### Example module #4
+#### Day 4
 
 ::: {.module-resource .slides}
 [Slides](slides/example.qmd)
-:::
-
-::: {.module-resource .video}
-[Video](https://example.com)
-:::
-
-::: {.module-resource .exercise}
-[Exercise: Exercise title (30 minutes)](https://example.com)
 :::
 ::::::
