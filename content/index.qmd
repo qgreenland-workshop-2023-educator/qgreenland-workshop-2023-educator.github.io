@@ -9,51 +9,32 @@ Materials will be posted the day of the workshop
 | 09:00 - 09:30 | Goals and Overview |
 | 09:30 - 10:00 | Resource Presentation |
 | 10:00 - 10:15 | Break |
-| 10:15 - 10:45 | Small Group Work |
-| 10:45 - 11:00 | Template Overview |
+| 10:15 - 10:45 | Partner Introductions |
+| 10:45 - 11:00 | Deliverable Overview |
 | 11:00 - 13:00 | Break and Asycnhronous Work Time |
-| 13:00 - 14:00 | Afternoon Check-in |
+| 13:00 - 14:00 | Deliverable and Afternoon Check-in |
 
 
 ### Day 2 - Tuesday June 6
 
-:::::: {.schedule-item .module}
+| Time          | Activity         |
+| :------------ | :--------------- |
+| 09:00 - 09:30 | Resource Presentation |
+| 09:30 - 10:00 | Pedagogy Discussion |
+| 10:00 - 10:15 | Break |
+| 10:15 - 10:45 | Template Overview |
+| 10:45 - 11:00 | Work Time |
+| 11:00 - 13:00 | Break and Asycnhronous Work Time |
+| 13:00 - 14:00 | Deliverable and Afternoon Check-in |
 
-::: {.module-resource .slides}
-[Slides](slides/example.qmd)
-:::
-::::::
+### Day 3 - Wednesday June 7
 
+Scheduled Check-in with Mentor
+Optional GIS Support Session
 
+### Day 4 - Thursday June 8
 
-:::::: {.schedule-item .module}
-#### Day 3 - Wednesday June 7
-
-::: {.module-resource .slides}
-[Slides](slides/example.qmd)
-:::
-::::::
-
-::: {.schedule-item .break}
-#### 🥪 Break: 60 minutes
-:::
-
-:::::: {.schedule-item .module}
-#### Day 4 - Thursday June 8
-
-::: {.module-resource .slides}
-[Slides](slides/example.qmd)
-:::
-::::::
-
-::: {.schedule-item .break}
-#### ☕ Break: 30 minutes
-:::
-
-:::::: {.schedule-item .module}
-#### Day 4
-
-::: {.module-resource .slides}
-[Slides](slides/example.qmd)
-:::
-::::::
+| Time          | Activity         |
+| :------------ | :--------------- |
+| 09:00 - 10:30 | Small Group Presentation of Activities |
+| 10:30 - 11:00 | Final Steps |
