@@ -1,23 +1,22 @@
 <!-- vim: set ft=markdown: -->
 ---
-title: "QGreenland Educator Workshop 2023"
-author: "NSIDC"
+title: "🎓 QGreenland Educator Workshop 2023"
 ---
 
-Design Learning Activities with GIS Tools
+#### Design Learning Activities with GIS Tools
 
-Date: June 5-8th 2023
+_June 5-8th, 2023_
 
-[Apply Here](https://forms.gle/HkgtxhHSBTuqiRLf7) open March 15-April 3
+**Apply [here](https://forms.gle/HkgtxhHSBTuqiRLf7) between March 15-April 3!**
 
 ## Overview
 
-Authentic learning activities for undergraduate students can be difficult to find and time-consuming to generate. QGreenland invites educators to a dedicated workshop to co-develop learning resources using QGreenland data. The workshop will bring together instructors across disciplines to create learning resources which use Greenland-focused data that can then serve the larger community. The workshop will include training on how to use research-based pedagogical approaches. This workshop is best suited for formal undergraduate or graduate educators. Familiarity with QGIS or willingness to complete the beginner tutorial series is preferred.    
+Authentic learning activities for undergraduate students can be difficult to find and time-consuming to generate. QGreenland invites educators to a dedicated workshop to co-develop learning resources using QGreenland data. The workshop will bring together instructors across disciplines to create learning resources which use Greenland-focused data that can then serve the larger community. The workshop will include training on how to use research-based pedagogical approaches. This workshop is best suited for formal undergraduate or graduate educators. Familiarity with QGIS or willingness to complete the beginner tutorial series is preferred.
 
-### Benefits of Participation
- - $250 stipend for successful completion of workshop 
- - Authorship of curriculum resources available to the educational community 
- - Access to the collection of GIS learning activities developed by workshop participants 
+### Benefits of participation
+ - $250 stipend for successful completion of workshop
+ - Authorship of curriculum resources available to the educational community
+ - Access to the collection of GIS learning activities developed by workshop participants
  - Build a network of educators
 
 ### Is this workshop for me?
@@ -27,12 +26,11 @@ Do you want to learn and discuss pedagogy for teaching GIS with QGIS?
 
 If you answer to these questions is yes, than this workshop is for YOU!
 
-### About QGreenland 
+### About QGreenland
 
-QGreenland is a free, Greenland-focused data-viewing environment for QGIS that supports research, education, decision-making, and collaboration. QGreenland is a U.S. National Science Foundation EarthCube-funded effort (award #1928393).  For more information, visit [https://qgreenland.org](https://qgreenland.org) 
+QGreenland is a free, Greenland-focused data-viewing environment for QGIS that supports research, education, decision-making, and collaboration. QGreenland is a U.S. National Science Foundation EarthCube-funded effort (award #1928393).  For more information, visit [https://qgreenland.org](https://qgreenland.org)
 
-### Application Detail 
+### Application details
 
 Deadline to apply is April 3, 2023.
-Decisions will be made the week of April 10, 2023.  
- 
+Decisions will be made the week of April 10, 2023.
