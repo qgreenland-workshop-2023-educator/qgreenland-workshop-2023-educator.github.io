@@ -13,7 +13,7 @@ _June 5-8th, 2023_
 
 Authentic learning activities for undergraduate students can be difficult to find and time-consuming to generate. QGreenland invites educators to a dedicated workshop to co-develop learning resources using QGreenland data. The workshop will bring together instructors across disciplines to create learning resources which use Greenland-focused data that can then serve the larger community. The workshop will include training on how to use research-based pedagogical approaches. This workshop is best suited for formal undergraduate or graduate educators. Familiarity with QGIS or willingness to complete the beginner tutorial series is preferred.
 
-### Benefits of Participation
+### Benefits of participation
  - $250 stipend for successful completion of workshop
  - Authorship of curriculum resources available to the educational community
  - Access to the collection of GIS learning activities developed by workshop participants
