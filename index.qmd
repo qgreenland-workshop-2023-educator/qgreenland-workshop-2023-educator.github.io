@@ -4,7 +4,7 @@ title: "QGreenland Educator Workshop 2023"
 author: "NSIDC"
 ---
 
-Design GIS-based learning activities for the student-centered course 
+Design Learning Activities with GIS Tools
 
 Date: June 5-8th 2023
 
@@ -12,18 +12,20 @@ Application: Available March 15th
 
 ## Overview
 
-Authentic learning activities for post-secondary students can be difficult to find and time-consuming to generate. QGreenland is hosting a dedicated workshop for educators to develop learning resources using Greenland-focused data. The workshop will bring together instructors across disciplines to co-create learning resources that can then serve the larger community. The workshop will include training on how to use research-based pedagogical approaches. This workshop is best suited for formal undergraduate or graduate level educators. Familiarity with QGIS or willingness to complete the beginner tutorial series is preferred.  
+Authentic learning activities for undergraduate students can be difficult to find and time-consuming to generate. QGreenland invites educators to a dedicated workshop to co-develop learning resources using QGreenland data. The workshop will bring together instructors across disciplines to create learning resources which use Greenland-focused data that can then serve the larger community. The workshop will include training on how to use research-based pedagogical approaches. This workshop is best suited for formal undergraduate or graduate educators. Familiarity with QGIS or willingness to complete the beginner tutorial series is preferred.    
 
 ### Benefits of Participation
  - $250 stipend for successful completion of workshop 
- - Access to a collection of learning activities ready to implement in your curriculum
- - Proficiency with QGreenland, QGIS, and Greenland data
- - Connection to a network of educators
+ - Authorship of curriculum resources available to the educational community 
+ - Access to the collection of GIS learning activities developed by workshop participants 
+ - Build a network of educators
 
 ### Is this workshop for me?
 
-_TODO_
+Do you want to engage your students with real-world data and build genuine skills they can use in their careers?
+Do you want to learn and discuss pedagogy for teaching GIS with QGIS?
 
+If you answer to these questions is yes, than this workshop is for YOU!
 
 ### About QGreenland 
 
@@ -32,5 +34,5 @@ QGreenland is a free, Greenland-focused data-viewing environment for QGIS that s
 ### Application Detail 
 
 Deadline to apply is April 3, 2023.
-Decisions will be made by April 10, 2023.  
+Decisions will be made the week of April 10, 2023.  
  
