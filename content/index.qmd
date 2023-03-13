@@ -1,6 +1,10 @@
 <!-- vim: set ft=markdown: -->
 # Course content
 
+::: {.callout-note}
+All times in Mountain Daylight Time (UTC-6:00).
+:::
+
 ### Day 1 - Monday, June 5
 Materials will be posted the day of the workshop
 
