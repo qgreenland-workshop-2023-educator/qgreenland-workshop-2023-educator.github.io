@@ -8,9 +8,9 @@ Agree to our [Code of Conduct](/CODE_OF_CONDUCT.md)
 
 ## QGreenland
 
-_TODO_
+* Install [QGIS](https://www.qgis.org/en/site/forusers/download.html) 3.22 or later
+* Install QGreenland: you can open QGreenland in QGIS
+* Familiar with concepts in [QGreenland Beginner Tutorial
+    Series](https://www.youtube.com/watch?v=gD0vkP5JUmA&list=PLSRiyMridUCwyu-vqpAFtm8bVERgTvs7q)
 
 
-## Third thing
-
-_TODO_
