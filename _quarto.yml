@@ -65,5 +65,4 @@ format:
     theme:
       light: "flatly"
       dark: "darkly"
-    css: "content/custom.css"
     toc: true
