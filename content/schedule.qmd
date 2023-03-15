@@ -1,11 +1,13 @@
 <!-- vim: set ft=markdown: -->
-# Course content
+# Schedule
 
 ::: {.callout-note}
 All times in Mountain Daylight Time (UTC-6:00).
 :::
 
+
 ### Day 1 - Monday, June 5
+
 Materials will be posted the day of the workshop
 
 | Time          | Activity         |
@@ -30,6 +32,7 @@ Materials will be posted the day of the workshop
 | 10:45 - 11:00 | Work Time |
 | 11:00 - 13:00 | Break and Asycnhronous Work Time |
 | 13:00 - 14:00 | Deliverable and Afternoon Check-in |
+
 
 ### Day 3 - Wednesday June 7
 
