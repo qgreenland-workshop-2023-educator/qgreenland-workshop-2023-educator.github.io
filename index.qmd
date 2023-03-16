@@ -1,9 +1,9 @@
 <!-- vim: set ft=markdown: -->
 ---
 title: "🎓 QGreenland Educator Workshop 2023"
+subtitle: "Design Learning Activities with GIS Tools"
+author: "Alyse Thurber"
 ---
-
-#### Design Learning Activities with GIS Tools
 
 _June 5-8th, 2023_
 
