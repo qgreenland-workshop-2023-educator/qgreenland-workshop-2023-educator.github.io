@@ -1,13 +1,14 @@
-# Continued learning
+# Curriculum Resources
 
-For continued learning, please consider the following external resources.
+To aid in your curriculum development, consider adding these resources to support your material
+NOTE: This page is a work in progress
 
 
-## Topic A
+## Model Ativities
 
 * ...
 
 
-## Topic B
+## Learning GIS
 
 * ...
