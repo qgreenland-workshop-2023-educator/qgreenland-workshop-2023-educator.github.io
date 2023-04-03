@@ -32,5 +32,5 @@ QGreenland is a free, Greenland-focused data-viewing environment for QGIS that s
 
 ### Application details
 
-Deadline to apply is April 3, 2023.
+Deadline to apply is April 9, 2023.
 Decisions will be made the week of April 10, 2023.
