@@ -1,14 +1,53 @@
-<!-- vim: set ft=markdown: -->
-# Prerequisites
+---
+title: Prerequisites
+format:
+  html:
+    toc: true
+    toc-depth: 3
+    toc-expand: true
+---
 
-## Code of Conduct
+In order to successfully complete the workshop and receive the $250 stipend,
+participants must complete the following list of prerequisites in advance of the
+workshop:
 
-Agree to our [Code of Conduct](/CODE_OF_CONDUCT.md)
+::: {.callout-note}
+All times referred to in workshop materials are in Mountain Daylight Time
+(UTC-6:00).
+:::
 
 
-## QGreenland
+##  Due: May 12, 2023
+
+### 📋 Post-selection survey
+
+Participants who have been notified of acceptance to the workshop will need to
+complete the post-selection survey.
+
+Before taking the survey, please complete the following actions. You will be
+asked questions related to each of these items in the survey:
+
+* 🕘 Please ensure that you can attend all three days of the workshop and actively
+  participate in group activities: _**June 5 & 6 from 9:00-14:00 Mountain Daylight
+  Time (UTC-6:00) AND June 8 09:00-11:00 Mountain Daylight
+  Time (UTC-6:00)**_
+* 🧠 [Know what to expect](https://qgreenland-workshop-2023-educator.github.io/#is-this-workshop-for-me)
+* 📏 Review our [Code of Conduct](/CODE_OF_CONDUCT.md)
+
+Once you have done the above, complete the [Post-selection
+survey](https://forms.gle/Vz7X5vDPujzpT8Q18).
+
+##  Due: May 29, 2023
+
+### QGreenland
 
 * Install [QGIS](https://www.qgis.org/en/site/forusers/download.html) 3.22 or later
 * Install QGreenland: you can open QGreenland in QGIS
 * Familiar with concepts in [QGreenland Beginner Tutorial
     Series](https://www.youtube.com/watch?v=gD0vkP5JUmA&list=PLSRiyMridUCwyu-vqpAFtm8bVERgTvs7q)
+    
+ ### Fill out stipend compensation forms
+
+You will receive an email with a link to financial forms that must be filled out
+via DocuSign in order to receive the $250 stipend. Please keep an eye on your
+inbox!
